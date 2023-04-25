@@ -1,5 +1,4 @@
 ### Hi there 👋
-🔭 I’m currently working in Tata Consultancy Services
 🌱 I’m currently learning Machine Learning Engineer\ Data Science
 
 <!--
